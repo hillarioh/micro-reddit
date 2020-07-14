@@ -1,5 +1,5 @@
 # Micro-reddit - Rails
-> Models excercise allowing posts and comments to be created by users stablishing their associations. No web interface included. Also add validations to the models. 
+> THis is a collaborative ruby on rails projects that involves generating models that allows posts and comments to be created by users and establishing their associations. No web interface included. Also add validations to the models. 
 ## Models created
 - User
 - Post
